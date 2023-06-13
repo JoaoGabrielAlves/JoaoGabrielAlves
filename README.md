@@ -71,8 +71,6 @@
 ![DigitalOcean](https://img.shields.io/badge/-digitalocean-0D1117?style=for-the-badge&logo=digitalocean&labelColor=0D1117)&nbsp;
 ![LaravelNova](https://img.shields.io/badge/-laravelnova-0D1117?style=for-the-badge&logo=laravelnova&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
-
 
   
 <div>
